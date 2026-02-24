@@ -1,4 +1,4 @@
-##🚀 MEAN Stack DevOps Deployment with CI/CD
+## 🚀 MEAN Stack DevOps Deployment with CI/CD
 
 ###A production-ready MEAN (MongoDB, Express, Angular, Node.js) application deployed using:
 
