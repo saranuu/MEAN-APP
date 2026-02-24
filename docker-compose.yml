@@ -11,7 +11,7 @@ services:
       - mongo-data:/data/db
 
   backend:
-    build: ./backend
+    image: saranuu/mean-app-backend:latest
     container_name: mean-backend
     restart: always
     environment:
@@ -22,7 +22,7 @@ services:
       - mongodb
 
   frontend:
-    build: ./frontend
+    image: saranuu/mean-app-backend:latest
     container_name: mean-frontend
     restart: always
     ports:
