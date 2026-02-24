@@ -155,31 +155,35 @@ Application URL:
 
 ## ✅ CI/CD Pipeline Execution
 screenshot : https://photos.app.goo.gl/BZaditGt9uPmqhCTA
+
 Description:
-Successful GitHub Actions workflow
-Backend & frontend images built
-Deployment step completed
+🔹Successful GitHub Actions workflow
+🔹Backend & frontend images built
+🔹Deployment step completed
 
 ## 🐳 Docker Image Build & Push
 screenshot : https://photos.app.goo.gl/HJCFnFmPioSjEozU9
+
 Description:
-Images tagged
-Pushed to Docker Hub
-Latest tag updated
+🔹Images tagged
+🔹Pushed to Docker Hub
+🔹Latest tag updated
 
 ## 🌐 Application Deployment (Working UI)
 screenshot : https://photos.app.goo.gl/XW9Yu2xNeAWn4j4R7
+
 Description:
-Angular frontend loaded
-Backend API integrated
-Data fetched successfully
+🔹Angular frontend loaded
+🔹Backend API integrated
+🔹Data fetched successfully
 
 ## 🔁 Nginx Reverse Proxy Setup
 screenshot : https://photos.app.goo.gl/1499z4bEbJoALEWE8
+
 Description:
-Reverse proxy configuration
-/api routing to backend
-Single public port exposed
+🔹Reverse proxy configuration
+🔹/api routing to backend
+🔹Single public port exposed
 
 ## 🔐 Infrastructure Details
 AWS EC2 Configuration
